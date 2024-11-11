@@ -34,7 +34,7 @@ function Banner() {
               />
             </label>
           </div>
-          <button className="btn btn-secondary mt-6">Secondary</button>
+          <button className="btn btn-secondary mt-6">Get Started</button>
         </div>
         <div className="w-full md:w-1/2 order-1 md:ml-8 mt-32">
           <img src={banner} className="w-92 h-92" alt="banner" />
